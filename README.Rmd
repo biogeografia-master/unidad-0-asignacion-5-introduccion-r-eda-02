@@ -8,7 +8,8 @@ editor_options:
 knitr::opts_chunk$set(
   echo = TRUE,
   fig.path = "img/",
-  collapse=TRUE
+  collapse=TRUE,
+  eval = F
 )
 ```
 

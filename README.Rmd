@@ -13,6 +13,8 @@ knitr::opts_chunk$set(
 )
 ```
 
+## Libremente, intenta replicar los análisis que verás [aquí]() usando las matrices de comunidad `cm.csv` y ambiental `env.csv` localizadas en la carpeta `data`, e interpretemos oralmente los resultados en el aula. Esta práctica no se evaluará. "Libremente" significa que los análisis no tienes que replicarlos exactamente igual.
+
 ## Paquetes. Necesitamos a la colección `tidyverse` y `vegan`
 
 ```{r}

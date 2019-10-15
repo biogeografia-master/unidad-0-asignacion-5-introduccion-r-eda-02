@@ -26,6 +26,7 @@ cm <- read.csv('data/d.mc.csv', row.names = 1, check.names = F)
 env <- read.csv('data/d.env.csv', row.names = 1, check.names = F)
 ```
 
+
 ## Índices de diversidad *alpha*
 
 ```{r}
@@ -41,9 +42,17 @@ env <- read.csv('data/d.env.csv', row.names = 1, check.names = F)
 
 ## Índices de diversidad *beta*
 
+```{r}
+
+```
+
 
 ## Gráficos de los índices de diversidad *beta*
 
+```{r}
+
+```
 
 
-## Transformación
+
+## Transformación de datos
